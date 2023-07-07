@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name[pt_BR]=Sige
+Name=Sige
+Icon=/var/lib/app-info/seduc/sige.PNG
+Exec=wine64 /home/$USER/.wine/drive_c/orant/BIN/F50RUN32.EXE log_on logon/logon@prod
+Categories=SEDUC;
